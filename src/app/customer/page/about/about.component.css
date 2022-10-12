@@ -1,0 +1,120 @@
+.content {
+    height: 300px;
+    width: 100%;
+    background-image: url(https://style-republik.com/wp-content/uploads/2021/06/1000x-1.jpeg);
+    background-size: cover
+}
+
+.text {
+    color: #fff;
+    position: absolute;
+    right: 100px;
+    top: 300px;
+   
+}
+
+.about {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.a {
+    display: flex;
+    margin: 20px;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+
+.a1 img {
+    width: 100%;
+    height: 120px;
+    margin: 20px;
+    margin-left:40px;
+}
+
+.text1 {
+    text-align: center;
+}
+
+.a2 img {
+    width: 90%;
+    height: 90px;
+    margin: 20px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.ab {
+    margin-left: 1000px;
+    color: crimson;
+}
+
+.ab1 {
+    margin-left: 100px;
+    color: crimson;
+    margin-top: 20px;
+}
+
+.about2 {
+    margin: 10px;
+}
+.about2 p {
+    margin-left: 20px;
+}
+.member{
+    display: flex;
+    margin-left: 300px;
+    /* padding-left: 30px; */
+}
+
+.m1 img{
+
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    /* margin-left: 20px; */
+}
+.m2 img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+.m3 img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+.t1{
+    text-align: center;
+}
+.m2{
+    text-align: center;
+}
+.m4 img{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.m5 img{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.member2{
+    display: flex;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.about4{
+    margin-top: 30px;
+}
+.ab3{
+    color: rgb(237, 50, 50);
+    margin-left: 1000px;
+    margin-top: 20px;
+}
+
